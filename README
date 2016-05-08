@@ -1,0 +1,6 @@
+I followed the tutorial in "http://socket.io/get-started/chat/" to create the data communication system.
+If the link does not work I have saved the .html file in this directory to be able to follow it in the
+future if it is necessary.
+
+This program is just a chat which has a Node.js server runing to synchronize the users. Websocket(socket.io)
+has been used for the communication.
